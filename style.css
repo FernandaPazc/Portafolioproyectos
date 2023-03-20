@@ -117,7 +117,7 @@ h1 {
 
 .experiencia .columna {
   padding: 20px;
-  border: 2px solid #8080804d;
+  border: 2px solid #ec1cdb4d;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -182,6 +182,7 @@ h1 {
   left: 50%;
   transform: translate(-50%, -50%);
   text-align: center;
+  color: #51af78;
 }
 
 .overlay p {
@@ -207,7 +208,7 @@ h1 {
 }
 
 .overlay i {
-  color: black;
+  color: rgb(203, 136, 206);
   font-size: 60px;
   margin: 10px;
 }
@@ -263,7 +264,7 @@ h1 {
   max-width: 70%;
   font-size: 20px;
   text-align: center;
-  font-family: 'Share Tech Mono', monospace;
+  font-family:'Playfair Display';
 }
 
 .testimonio-info {
